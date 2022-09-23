@@ -3,12 +3,26 @@ define m = Character('Me', color="#c8c8ff")
 
 label start:
 
-    s "Hi there! How was class?"
+    scene bg meadow
 
-    m "Good..."
+    "After a short while, we reach the meadows just outside the neighborhood where we both live."
 
-    "I can't bring myself to admit that it all went in one ear and out the other."
+    "It's a scenic view I've grown used to. Autumn is especially beautiful here."
 
-    s "Are you going home now? Wanna walk back with me?"
+    "When we were children, we played in these meadows a lot, so they're full of memories."
 
-    m "Sure!"
+    m "Hey... Umm..."
+
+    show sylvie green smile
+
+    "She turns to me and smiles. She looks so welcoming that I feel my nervousness melt away."
+
+    "I'll ask her...!"
+
+    m "Ummm... Will you..."
+
+    m "Will you be my artist for a visual novel?"
+
+    show sylvie green surprised
+
+    "Silence."
