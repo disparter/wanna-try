@@ -1,0 +1,5 @@
+.vscode
+log.txt
+*.rpyc
+Wanna Try/game/cache/*
+Wanna Try/game/saves/*
