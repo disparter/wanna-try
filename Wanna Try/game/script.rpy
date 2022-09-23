@@ -26,3 +26,13 @@ label start:
     show sylvie green surprised
 
     "Silence."
+
+label leaving:
+
+    s "I'll get right on it!"
+
+    hide sylvie
+
+    "..."
+
+    m "That wasn't what I meant!"
